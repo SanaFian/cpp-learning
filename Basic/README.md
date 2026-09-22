@@ -9,5 +9,11 @@ Write a program that prints "Hello World!" to the console.
 
 ### Exercise 02
 Exercise 02: Write a program that prints the following pattern to the console.
-
+ ++++++
++      +       +        +
++              +        +
++          +++++++  +++++++
++              +        +
++      +       +        +
+ ++++++
 [EX 02](code/02.cpp)
