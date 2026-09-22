@@ -1,4 +1,8 @@
 # C++ Basics
-basic C++ exercises for beginners.
+
 ## Exercises
-More exercises will bw added gradually.
+
+### Exercise 01
+Write a program that prints "Hello World!" to the console.
+
+[View Source Code](01.cpp)
