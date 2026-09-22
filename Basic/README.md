@@ -1,4 +1,4 @@
-#C++ Basics
+# C++ Basics
 basic C++ exercises for beginners.
-##Exercises
+## Exercises
 More exercises will bw added gradually.
