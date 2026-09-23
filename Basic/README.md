@@ -51,3 +51,28 @@ Write a program that swaps the values ​​of two variables (using a third vari
 Write a program that swaps the values ​​of two variables (without using a third variable).
 
 [EX 10](code/10.cpp)
+
+### Exercise 11
+Write a program that determines the sizes of various data types.
+
+[EX 11](code/11.cpp)
+
+### Exercise 12
+Write a program that changes the output format.
+
+[EX 12](code/12.cpp)
+
+### Exercise 13
+Write a program that converts a value from kilometers to miles.
+
+[EX 13](code/13.cpp)
+
+### Exercise 14
+Write a program that converts a value from feet to meters.
+
+[EX 14](code/14.cpp)
+
+### Exercise 15
+Write a program that converts a value from Celsius to Fahrenheit.
+
+[EX 15](code/15.cpp)
