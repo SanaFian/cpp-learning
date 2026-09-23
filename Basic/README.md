@@ -26,3 +26,28 @@ Write a program that calculates the average of three
 Write a program that calculates the sum and average of four numbers.
 
 [EX 05](code/05.cpp)
+
+### Exercise 06
+Write a program that accepts a number and displays its double in the console.
+
+[EX 06](code/06.cpp)
+
+### Exercise 07
+Write a program that takes two decimal numbers as input and multiplies them.
+
+[EX 07](code/07.cpp)
+
+### Exercise 08
+Write a program that performs all arithmetic operations.
+
+[EX 08](code/08.cpp)
+
+### Exercise 09
+Write a program that swaps the values ​​of two variables (using a third variable).
+
+[EX 09](code/09.cpp)
+
+### Exercise 10
+Write a program that swaps the values ​​of two variables (without using a third variable).
+
+[EX 10](code/10.cpp)
