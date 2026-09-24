@@ -76,3 +76,9 @@ Write a program that converts a value from feet to meters.
 Write a program that converts a value from Celsius to Fahrenheit.
 
 [EX 15](code/15.cpp)
+
+### Exercise 16
+Write a program that calculates the quotient and remainder of a number.
+
+[EX 16  ](code/16.cpp)
+
