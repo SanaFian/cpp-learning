@@ -82,3 +82,33 @@ Write a program that calculates the quotient and remainder of a number.
 
 [EX 16  ](code/16.cpp)
 
+### Exercise 17
+Write a program that reverses a two-digit number.
+
+[EX 17  ](code/17.cpp)
+
+### Exercise 18
+Write a program that swaps the first and last digits of any number.
+
+[EX 18  ](code/18.cpp)
+
+### Exercise 19
+Write a program that displays the ASCII code of a value.
+
+[EX 19  ](code/19.cpp)
+
+### Exercise 20
+Write a program that calculates the area and circumference of a circle.
+
+[EX 20  ](code/20.cpp)
+
+### Exercise 21
+Write a program that calculates the area and perimeter of a square.
+
+[EX 21  ](code/21.cpp)
+
+### Exercise 22
+Write a program that calculates the area and perimeter of a rectangle.
+
+[EX 22  ](code/22.cpp)
+
