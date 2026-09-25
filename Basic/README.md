@@ -115,25 +115,25 @@ Write a program that calculates the area and perimeter of a rectangle.
 ### Exercise 23
 Write a program that calculates the area and perimeter of a triangle.
 
-[EX 22  ](code/22.cpp)
+[EX 23  ](code/23.cpp)
 
 ### Exercise 24
 Write a program that takes a number of days as input and converts it into years, weeks, and days.
 
-[EX 22  ](code/22.cpp)
+[EX 24  ](code/24.cpp)
 
 ### Exercise 25
 Write a program that adds two binary numbers.
 
-[EX 22  ](code/22.cpp)
+[EX 25  ](code/25.cpp)
 
 ### Exercise 26
 Write a program that takes the user's first and last name as input and prints the last name first, followed by the first name.
 
-[EX 22  ](code/22.cpp)
+[EX 26  ](code/26.cpp)
 
 ### Exercise 27
 Write a program that calculates the sum of two given integers and counts the number of digits in that sum.
 
-[EX 22  ](code/22.cpp)
+[EX 27  ](code/27.cpp)
 
