@@ -4,4 +4,6 @@
 
 ### Exercise 01
 
-soon...
+Write a program that reads and prints the elements of an array.
+
+
