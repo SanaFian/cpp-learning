@@ -1,3 +1,6 @@
+// Exercise 02 : Diamond pattern
+// Write a program that prints a diamond pattern using '+' symbols.
+
 #include <iostream>
 using namespace std;
  
