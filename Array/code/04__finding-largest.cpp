@@ -1,3 +1,6 @@
+// Exercise 04 :
+// Write a program that finds the largest element in an array.
+
 #include <iostream>
 #define MAX_SIZE 100 //Maximum size of the array
 using namespace std;
