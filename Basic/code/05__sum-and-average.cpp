@@ -1,3 +1,6 @@
+// Exercise 05: 
+// Write a program that calculates the sum and average of four numbers.
+
 #include <iostream>
 using namespace std;
 
