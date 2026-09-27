@@ -1,3 +1,6 @@
+// Exercise 02 :
+// Write a program that finds the sum of all elements in an array.
+
 #include <iostream>
 #define MAX_SIZE 100 //Maximum size of the array
 using namespace std;
