@@ -1,4 +1,4 @@
-// Exercise 03 : Adding two integers
+// Exercise 03 :
 // Write a program that adds two integers.
 
 
