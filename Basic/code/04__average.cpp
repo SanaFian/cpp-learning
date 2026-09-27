@@ -1,3 +1,6 @@
+// Exercise 04: average
+// Write a program that calculates the average of three
+
 #include <iostream>
 
 using namespace std;
