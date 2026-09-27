@@ -40,12 +40,12 @@ Write a program that takes two decimal numbers as input and multiplies them.
 ### Exercise 08
 Write a program that performs all arithmetic operations.
 
-[EX 08](code/08__all-artihmetic-operations.cpp)
+[EX 08](code/08__all-arithmetic-operations.cpp)
 
 ### Exercise 09
 Write a program that swaps the values ​​of two variables (using a third variable).
 
-[EX 09](code/09__swaping-valiues.cpp)
+[EX 09](code/09__swaping-values.cpp)
 
 ### Exercise 10
 Write a program that swaps the values ​​of two variables (without using a third variable).
