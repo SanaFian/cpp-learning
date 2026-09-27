@@ -1,3 +1,6 @@
+// Exercise 01 :
+// Write a program that reads and prints the elements of an array.
+
 #include <iostream>
 #define MAX_SIZE 100 //Maximum size of the array
 using namespace std;
