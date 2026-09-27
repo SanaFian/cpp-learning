@@ -1,3 +1,7 @@
+// Exercise 03 : Adding two integers
+// Write a program that adds two integers.
+
+
 #include<iostream>
 using namespace std;    
     
