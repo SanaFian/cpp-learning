@@ -10,7 +10,7 @@ Write a program that prints "Hello World!" to the console.
 ### Exercise 02
 Write a program that prints a diamond pattern using `+` symbols.
 
-[EX 02](code/02.cpp)
+[EX 02](code/02__Diamond-pattern.cpp)
 
 ### Exercise 03
 Write a program that adds two integers.
