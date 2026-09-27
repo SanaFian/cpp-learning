@@ -1,3 +1,6 @@
+// Exercise 07: multiplies numbers
+// Write a program that takes two decimal numbers as input and multiplies them.
+
 #include<iostream>
 using namespace std;    
 int main() 
