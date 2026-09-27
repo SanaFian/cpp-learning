@@ -1,4 +1,4 @@
-// Exercise 04: average
+// Exercise 04:
 // Write a program that calculates the average of three
 
 #include <iostream>
