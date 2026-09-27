@@ -1,3 +1,6 @@
+// Exercise 03 :
+// Write a program that accepts 10 numbers and displays the average.
+
 #include <iostream>
 
 using namespace std;
