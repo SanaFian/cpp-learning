@@ -45,7 +45,7 @@ Write a program that performs all arithmetic operations.
 ### Exercise 09
 Write a program that swaps the values ​​of two variables (using a third variable).
 
-[EX 09](code/09__swapin-valiues.cpp)
+[EX 09](code/09__swaping-valiues.cpp)
 
 ### Exercise 10
 Write a program that swaps the values ​​of two variables (without using a third variable).
