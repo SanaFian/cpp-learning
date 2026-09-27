@@ -1,3 +1,6 @@
+// Exercise 06:
+// Write a program that accepts a number and displays its double in the console.
+    
 #include <iostream>
 
 using namespace std;
