@@ -1,4 +1,4 @@
-// Exercise 02 : Diamond pattern
+// Exercise 02:
 // Write a program that prints a diamond pattern using '+' symbols.
 
 #include <iostream>
