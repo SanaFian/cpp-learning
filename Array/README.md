@@ -18,7 +18,7 @@ Write a program that finds the sum of all elements in an array.
 
 Write a program that accepts 10 numbers and displays the average.
 
-[EX 03](code/03__agerage-of-numbers.cpp)
+[EX 03](code/03__average-of-numbers.cpp)
 
 ### Exercise 04
 
