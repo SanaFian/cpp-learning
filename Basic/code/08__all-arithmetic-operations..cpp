@@ -1,3 +1,6 @@
+// Exercise 08:
+// Write a program that performs all arithmetic operations.
+
 #include<iostream>
 using namespace std;    
 int main() 
