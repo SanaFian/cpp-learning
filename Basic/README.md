@@ -15,37 +15,37 @@ Write a program that prints a diamond pattern using `+` symbols.
 ### Exercise 03
 Write a program that adds two integers.
 
-[EX 03](code/03.cpp)
+[EX 03](code/03__adding-integers.cpp)
 
 ### Exercise 04
 Write a program that calculates the average of three 
 
-[EX 04](code/04.cpp)
+[EX 04](code/04__average.cpp)
 
 ### Exercise 05
 Write a program that calculates the sum and average of four numbers.
 
-[EX 05](code/05.cpp)
+[EX 05](code/05__sum-and-average.cpp)
 
 ### Exercise 06
 Write a program that accepts a number and displays its double in the console.
 
-[EX 06](code/06.cpp)
+[EX 06](code/06__double.cpp)
 
 ### Exercise 07
 Write a program that takes two decimal numbers as input and multiplies them.
 
-[EX 07](code/07.cpp)
+[EX 07](code/07__multiplies-numbers.cpp)
 
 ### Exercise 08
 Write a program that performs all arithmetic operations.
 
-[EX 08](code/08.cpp)
+[EX 08](code/08__all-artihmetic-operations.cpp)
 
 ### Exercise 09
 Write a program that swaps the values ​​of two variables (using a third variable).
 
-[EX 09](code/09.cpp)
+[EX 09](code/09__swapin-valiues.cpp)
 
 ### Exercise 10
 Write a program that swaps the values ​​of two variables (without using a third variable).
