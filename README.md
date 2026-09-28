@@ -4,10 +4,6 @@ A collection of C++ exercises, examples, and learning resources created while le
 
 ## 📚 Topics
 
-## 📚 Topics
-
-## 🗂️ Topics
-
 1. [Basic](./Basic) – Basic C++ syntax and programming concepts
 2. [Array](./Array) – One-dimensional and multi-dimensional arrays
 3. [Conditional](./Conditional) – Decision-making statements (`if`, `if-else`, `switch-case`)
