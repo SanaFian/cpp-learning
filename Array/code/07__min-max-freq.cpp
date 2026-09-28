@@ -1,4 +1,4 @@
-// Exersice 07 :
+// Exercise 07:
 // Write a program that accepts 10 numbers, calculates the maximum and minimum values, and determines the frequency of each within the set of numbers.
 
 #include <iostream>
