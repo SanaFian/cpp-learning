@@ -1,3 +1,6 @@
+// Exercise 18 :
+// Write a program that swaps the first and last digits of any number.
+
 #include <iostream>
 #include <math.h>
 using namespace std;
