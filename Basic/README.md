@@ -50,27 +50,27 @@ Write a program that swaps the values ​​of two variables (using a third vari
 ### Exercise 10
 Write a program that swaps the values ​​of two variables (without using a third variable).
 
-[EX 10](code/10.cpp)
+[EX 10](code/10__swaping-values2.cpp)
 
 ### Exercise 11
 Write a program that determines the sizes of various data types.
 
-[EX 11](code/11.cpp)
+[EX 11](code/11__determinung-sizes.cpp)
 
 ### Exercise 12
 Write a program that changes the output format.
 
-[EX 12](code/12.cpp)
+[EX 12](code/12__changing-format.cpp)
 
 ### Exercise 13
 Write a program that converts a value from kilometers to miles.
 
-[EX 13](code/13.cpp)
+[EX 13](code/13__km-to-m.cpp)
 
 ### Exercise 14
 Write a program that converts a value from feet to meters.
 
-[EX 14](code/14.cpp)
+[EX 14](code/14__ft_to_m.cpp)
 
 ### Exercise 15
 Write a program that converts a value from Celsius to Fahrenheit.
