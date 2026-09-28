@@ -1,3 +1,6 @@
+// exercise 15:
+// Write a program that converts a value from Celsius to Fahrenheit.
+
 #include<iostream>
 using namespace std;
 int main()
