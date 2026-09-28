@@ -42,6 +42,6 @@ Write a program that reads 10 numbers, calculates the average, and displays the 
 
 Write a program that reads 10 numbers, calculates the average, and displays the numbers that are less than the average in the console.
 
-[EX 07](code/07__min_max_freq.cpp)
+[EX 07](code/07__min-max-freq.cpp)
 
 
