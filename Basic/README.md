@@ -65,12 +65,12 @@ Write a program that changes the output format.
 ### Exercise 13
 Write a program that converts a value from kilometers to miles.
 
-[EX 13](code/13__km-to-m.cpp)
+[EX 13](code/13__km-to-miles.cpp)
 
 ### Exercise 14
 Write a program that converts a value from feet to meters.
 
-[EX 14](code/14__ft_to_m.cpp)
+[EX 14](code/14__ft_to_miles.cpp)
 
 ### Exercise 15
 Write a program that converts a value from Celsius to Fahrenheit.
