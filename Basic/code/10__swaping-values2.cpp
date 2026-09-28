@@ -1,3 +1,8 @@
+// Exercise 10 :
+// Write a program that swaps the values ​​of two variables (without using a third variable).
+
+EX 10
+
 #include <iostream>
 
 using namespace std;
