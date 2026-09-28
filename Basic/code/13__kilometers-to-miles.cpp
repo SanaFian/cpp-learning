@@ -1,3 +1,6 @@
+// Exercise 13 :
+// Write a program that converts a value from kilometers to miles.
+
 #include<iostream>
 using namespace std;
 
