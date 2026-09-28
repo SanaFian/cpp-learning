@@ -88,7 +88,7 @@ Write a program that calculates the quotient and remainder of a number.
 ### Exercise 17
 Write a program that reverses a two-digit number.
 
-[EX 17  ](code/17.cpp)
+[EX 17  ](17__two-digit-inverter.cpp)
 
 ### Exercise 18
 Write a program that swaps the first and last digits of any number.
