@@ -1,3 +1,6 @@
+// Exercise 12 :
+// Write a program that changes the output format.
+
 #include <iostream>
 #include <iomanip>    // Needed to do formatted I/O
 using namespace std;
