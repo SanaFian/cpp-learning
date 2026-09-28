@@ -1,3 +1,6 @@
+// Exercise 17 :
+// Write a program that reverses a two-digit number.
+
 #include <iostream>
 
 using namespace std;
