@@ -2,7 +2,8 @@
 
 A curated collection of introductory exercises covering fundamental C++ concepts: basic syntax, standard I/O streams (`cin`/`cout`), primitive types, and arithmetic operations.
 ---
-# Exercises
+
+## Exercises
 
 ### Exercise 01
 Write a program that prints "Hello World!" to the console.
