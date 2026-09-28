@@ -1,6 +1,6 @@
 # C++ Basics
 
-A curated collection of introductory exercises covering fundamental C++ concepts: basic syntax, standard I/O streams (`cin`/`cout`), primitive types, and arithmetic operations.
+## A curated collection of introductory exercises covering fundamental C++ concepts: basic syntax, standard I/O streams (`cin`/`cout`), primitive types, and arithmetic operations.
 ---
 # Exercises
 
