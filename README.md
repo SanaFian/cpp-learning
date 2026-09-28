@@ -4,8 +4,8 @@ A collection of C++ exercises, examples, and learning resources created while le
 
 ## 📚 Topics
 
-- 1) [Basic](Basic/) – Basic C++ syntax and programming concepts
-- 2) [Array](Array/) – One-dimensional and multi-dimensional arrays
+- [Basic](Basic/) – Basic C++ syntax and programming concepts
+- [Array](Array/) – One-dimensional and multi-dimensional arrays
 
 ## 🎯 Purpose
 
