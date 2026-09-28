@@ -38,3 +38,10 @@ Write a program that reads 10 numbers, calculates the average, and displays the 
 
 [EX 06](code/06__sub-average-elements.cpp)
 
+### Exercise 07
+
+Write a program that reads 10 numbers, calculates the average, and displays the numbers that are less than the average in the console.
+
+[EX 07](code/07__min_max_freq.cpp)
+
+
