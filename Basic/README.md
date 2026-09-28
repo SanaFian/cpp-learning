@@ -78,17 +78,17 @@ Write a program that converts a value from feet to meters.
 ### Exercise 15
 Write a program that converts a value from Celsius to Fahrenheit.
 
-[EX 15](code/15.cpp)
+[EX 15](code/15__c-to-f.cpp)
 
 ### Exercise 16
 Write a program that calculates the quotient and remainder of a number.
 
-[EX 16  ](code/16.cpp)
+[EX 16  ](code/16__Integer-division.cpp)
 
 ### Exercise 17
 Write a program that reverses a two-digit number.
 
-[EX 17  ](17__two-digit-inverter.cpp)
+[EX 17  ](code/17__two-digit-inverter.cpp)
 
 ### Exercise 18
 Write a program that swaps the first and last digits of any number.
