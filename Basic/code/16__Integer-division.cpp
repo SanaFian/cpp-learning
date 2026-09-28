@@ -1,3 +1,7 @@
+// Exercise 16 :
+// Write a program that calculates the quotient and remainder of a number.
+
+
 #include <iostream>
 using namespace std;
 
