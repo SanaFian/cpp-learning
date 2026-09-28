@@ -6,13 +6,15 @@ A collection of C++ exercises, examples, and learning resources created while le
 
 ## 📚 Topics
 
-1. [Basic](./Basic) – Basic C++ syntax, operators, and fundamental programming concepts
-2. [Conditional](./Conditional) – Decision-making statements (`if`, `if-else`, `switch-case`)
-3. [Loop](./Loop) – Iteration and control flow (`for`, `while`, `do-while`)
-4. [Array](./Array) – One-dimensional and multi-dimensional arrays
+## 🗂️ Topics
+
+1. [Basic](./Basic) – Basic C++ syntax and programming concepts
+2. [Array](./Array) – One-dimensional and multi-dimensional arrays
+3. [Conditional](./Conditional) – Decision-making statements (`if`, `if-else`, `switch-case`)
+4. [Loop](./Loop) – Iteration and control flow (`for`, `while`, `do-while`)
 5. [String](./String) – Character arrays, `std::string` manipulation, and text processing
 6. [Function](./Function) – Modular programming, parameter passing, and recursion
-  
+
 ## 🎯 Purpose
 
 This repository documents my C++ learning journey through practical exercises.
