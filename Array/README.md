@@ -32,3 +32,9 @@ Write a program that finds the smallest element in an array.
 
 [EX 05](code/05__finding-smallest.cpp)
 
+### Exercise 06
+
+Write a program that reads 10 numbers, calculates the average, and displays the numbers that are less than the average in the console.
+
+[EX 06](code/06__sub-average-elements.cpp)
+
