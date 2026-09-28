@@ -1,3 +1,6 @@
+// Exercise 11 :
+// Write a program that determines the sizes of various data types.
+
 #include <iostream>
 using namespace std;
  
