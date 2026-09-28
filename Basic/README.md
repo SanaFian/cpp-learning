@@ -93,7 +93,7 @@ Write a program that reverses a two-digit number.
 ### Exercise 18
 Write a program that swaps the first and last digits of any number.
 
-[EX 18  ](code/18.cpp)
+[EX 18  ](code/18__swap-ends.cpp)
 
 ### Exercise 19
 Write a program that displays the ASCII code of a value.
