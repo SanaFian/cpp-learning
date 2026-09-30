@@ -1,3 +1,6 @@
+// Exercise 19 :
+// Write a program that displays the ASCII code of a value.
+
 #include<iostream>
 using namespace std;
 int main()
