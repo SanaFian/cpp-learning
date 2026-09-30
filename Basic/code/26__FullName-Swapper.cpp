@@ -1,3 +1,6 @@
+// Exercise 26 :
+// Write a program that takes the user's first and last name as input and prints the last name first, followed by the first name.
+
 # include <iostream>
 # include <string>
 using namespace std;
