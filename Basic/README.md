@@ -98,45 +98,45 @@ Write a program that swaps the first and last digits of any number.
 ### Exercise 19
 Write a program that displays the ASCII code of a value.
 
-[EX 19  ](code/19.cpp)
+[EX 19  ](code/19__ASCIIDisplayer.cpp)
 
 ### Exercise 20
 Write a program that calculates the area and circumference of a circle.
 
-[EX 20  ](code/20.cpp)
+[EX 20  ](code/20__Circle-Calculator.cpp)
 
 ### Exercise 21
 Write a program that calculates the area and perimeter of a square.
 
-[EX 21  ](code/21.cpp)
+[EX 21  ](code/21__Square-Calculator.cpp)
 
 ### Exercise 22
 Write a program that calculates the area and perimeter of a rectangle.
 
-[EX 22  ](code/22.cpp)
+[EX 22  ](code/22__Rectangle-Calculator.cpp)
 
 ### Exercise 23
 Write a program that calculates the area and perimeter of a triangle.
 
-[EX 23  ](code/23.cpp)
+[EX 23  ](code/23__Triangle-Calculator.cpp)
 
 ### Exercise 24
 Write a program that takes a number of days as input and converts it into years, weeks, and days.
 
-[EX 24  ](code/24.cpp)
+[EX 24  ](code/24__Days-Converter.cpp)
 
 ### Exercise 25
 Write a program that adds two binary numbers.
 
-[EX 25  ](code/25.cpp)
+[EX 25  ](code/25__BinaryAdder.cpp)
 
 ### Exercise 26
 Write a program that takes the user's first and last name as input and prints the last name first, followed by the first name.
 
-[EX 26  ](code/26.cpp)
+[EX 26  ](code/26__FullName-Swapper.cpp)
 
 ### Exercise 27
 Write a program that calculates the sum of two given integers and counts the number of digits in that sum.
 
-[EX 27  ](code/27.cpp)
+[EX 27  ](code/27__Sum-Digit-Counter.cpp)
 
