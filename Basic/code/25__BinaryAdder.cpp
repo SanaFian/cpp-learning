@@ -1,3 +1,6 @@
+// Exercise 25 :
+// Write a program that adds two binary numbers.
+
 #include <iostream>
 #include <math.h>
 using namespace std;
