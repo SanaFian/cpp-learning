@@ -1,3 +1,6 @@
+// Exercise 21 :
+// Write a program that calculates the area and perimeter of a square.
+
 #include<iostream>
 #define PI 3.141
 using namespace std;
