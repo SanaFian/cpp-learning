@@ -1,3 +1,6 @@
+// Exercise 23 :
+// Write a program that calculates the area and perimeter of a triangle.
+
 #include<iostream>
 #define PI 3.141
 using namespace std;
