@@ -1,3 +1,6 @@
+// Exercise 27 :
+// Write a program that calculates the sum of two given integers and counts the number of digits in that sum.
+
 #include <iostream>
 #include <sstream>
 using namespace std;
