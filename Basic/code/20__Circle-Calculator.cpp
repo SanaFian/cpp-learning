@@ -1,3 +1,6 @@
+// Exercise 20 :
+// Write a program that calculates the area and circumference of a circle.
+
 #include<iostream>
 #define PI 3.141
 using namespace std;
