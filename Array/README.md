@@ -50,3 +50,9 @@ Write a program that accepts 10 numbers, calculates the maximum and minimum valu
 
 [EX 08](code/08__Min-Max-Finder.cpp)
 
+### Exercise 09
+
+Write a program that finds the three largest elements in an array.
+
+[EX 09](code/09__Find-Three-Max.cpp)
+
