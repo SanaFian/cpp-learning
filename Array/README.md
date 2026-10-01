@@ -44,4 +44,9 @@ Write a program that reads 10 numbers, calculates the average, and displays the 
 
 [EX 07](code/07__min-max-freq.cpp)
 
+### Exercise 08
+
+Write a program that accepts 10 numbers, calculates the maximum and minimum values, and identifies the position of each within the set of numbers.
+
+[EX 08](code/08__Min-Max-Finder.cpp)
 
