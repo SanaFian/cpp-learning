@@ -68,4 +68,8 @@ Write a program to find the second smallest element in a given array.
 
 [EX 11](code/11__Find-Second-Min.cpp)
 
+### Exercise 12
 
+Write a program to find the second smallest element in a given array.
+
+[EX 12](code/12__Find-Most-Frequent.cpp)
