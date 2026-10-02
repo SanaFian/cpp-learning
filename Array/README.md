@@ -61,3 +61,11 @@ Write a program that finds the three largest elements in an array.
 Write a program that finds the second largest element in a given array.
 
 [EX 10](code/10__Find-Second-Max.cpp)
+
+### Exercise 11
+
+Write a program to find the second smallest element in a given array.
+
+[EX 11](code/11__Find-Second-Min.cpp)
+
+
