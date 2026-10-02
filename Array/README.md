@@ -56,3 +56,8 @@ Write a program that finds the three largest elements in an array.
 
 [EX 09](code/09__Find-Three-Max.cpp)
 
+### Exercise 10
+
+Write a program that finds the second largest element in a given array.
+
+[EX 10](code/10__Find-Second-Max.cpp)
