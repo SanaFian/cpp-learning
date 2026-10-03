@@ -78,10 +78,10 @@ Write a program to find the second smallest element in a given array.
 
 Write a program that prints all the negative elements in an array.
 
-[EX 13](code/13__NegativeFilter.cpp)
+[EX 13](code/13__Negative-Filter.cpp)
 
 ### Exercise 14
 
+Write a program that finds the total number of negative elements in an array.
 
-
-[EX 14](code/14__)
+[EX 14](code/14_Negative-Counter.cpp)
