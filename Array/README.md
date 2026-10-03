@@ -73,3 +73,15 @@ Write a program to find the second smallest element in a given array.
 Write a program to find the second smallest element in a given array.
 
 [EX 12](code/12__Find-Most-Frequent.cpp)
+
+### Exercise 13
+
+Write a program that prints all the negative elements in an array.
+
+[EX 13](code/13__NegativeFilter.cpp)
+
+### Exercise 14
+
+
+
+[EX 14](code/14__)
