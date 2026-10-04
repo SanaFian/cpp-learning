@@ -92,3 +92,10 @@ Write a program that moves all negative elements of an integer array to the end 
 
 [EX 15](code/15_Shift-Negatives.cpp)
 
+### Exercise 16
+
+Write a program that counts the even and odd elements in an array.
+
+[EX 15](code/16_Count-Even-Odd.cpp)
+
+
