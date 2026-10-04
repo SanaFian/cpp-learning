@@ -85,3 +85,10 @@ Write a program that prints all the negative elements in an array.
 Write a program that finds the total number of negative elements in an array.
 
 [EX 14](code/14_Negative-Counter.cpp)
+
+### Exercise 15
+
+Write a program that moves all negative elements of an integer array to the end of the array without changing the relative order of the positive and negative elements.
+
+[EX 15](code/15_ShiftNegatives.cpp)
+
