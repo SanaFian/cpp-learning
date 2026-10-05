@@ -102,4 +102,10 @@ Write a program that counts the even and odd elements in an array.
 
 Write a program that inserts an element into an array.
 
-[EX 17](code/17_InsertElement.cpp)
+[EX 17](code/17_Insert-Element.cpp)
+
+### Exercise 18
+
+Write a program that prints all the unique elements in an array.
+
+[EX 18](code/18_Print-Unique-Elements.cpp)
