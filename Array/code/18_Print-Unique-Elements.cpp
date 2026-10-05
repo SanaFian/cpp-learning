@@ -9,18 +9,18 @@ int main()
     int arr[100], size, isUnique;
     int i, j, k;
  
-    //Reads size of the array
+    // Reads size of the array
     cout<<"Enter size of array: ";
     cin>>size;
  
-    //Reads elements in array
+    // Reads elements in array
     cout<<"Enter elements in array: ";
     for(i=0; i<size; i++)
     {
         cin>>arr[i];
     }
  
-    //Removing all duplicate elements from the array
+    // Removing all duplicate elements from the array
     for(i=0; i<size; i++)
     {
         // Assuming  cuurent element is unique */
@@ -29,7 +29,7 @@ int main()
         for(j=i+1; j<size; j++)
         {
  
-            //If any duplicate element is found
+            // If any duplicate element is found
  
             if(arr[i]==arr[j])
             {
@@ -60,7 +60,7 @@ int main()
             i--;
         }
     }
-    //Printing all unique elements in array
+    // Printing all unique elements in array
     cout<<"All unique elements in the array are: ";
     for(i=0; i<size; i++)
     {
