@@ -98,4 +98,8 @@ Write a program that counts the even and odd elements in an array.
 
 [EX 15](code/16_Count-Even-Odd.cpp)
 
+### Exercise 17
 
+Write a program that inserts an element into an array.
+
+[EX 17](code/17_InsertElement.cpp)
