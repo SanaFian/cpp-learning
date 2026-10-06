@@ -109,3 +109,10 @@ Write a program that inserts an element into an array.
 Write a program that prints all the unique elements in an array.
 
 [EX 18](code/18_Print-Unique-Elements.cpp)
+
+### Exercise 19
+
+Write a program that sorts an array in ascending order.
+
+[EX 19](code/19_ArraySorter.cpp)
+
