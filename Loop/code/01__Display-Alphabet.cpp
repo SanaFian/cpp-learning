@@ -1,5 +1,5 @@
 // Exercise 1 :
-// Write a program that accepts two integers and checks whether they are equal.
+// Write a program that displays all the letters of the English alphabet.
 
 #include<iostream>
 using namespace std;
