@@ -84,41 +84,41 @@ Write a program that prints all the negative elements in an array.
 
 Write a program that finds the total number of negative elements in an array.
 
-[EX 14](code/14_Negative-Counter.cpp)
+[EX 14](code/14__Negative-Counter.cpp)
 
 ### Exercise 15
 
 Write a program that moves all negative elements of an integer array to the end of the array without changing the relative order of the positive and negative elements.
 
-[EX 15](code/15_Shift-Negatives.cpp)
+[EX 15](code/15__Shift-Negatives.cpp)
 
 ### Exercise 16
 
 Write a program that counts the even and odd elements in an array.
 
-[EX 15](code/16_Count-Even-Odd.cpp)
+[EX 15](code/16__Count-Even-Odd.cpp)
 
 ### Exercise 17
 
 Write a program that inserts an element into an array.
 
-[EX 17](code/17_Insert-Element.cpp)
+[EX 17](code/17__Insert-Element.cpp)
 
 ### Exercise 18
 
 Write a program that prints all the unique elements in an array.
 
-[EX 18](code/18_Print-Unique-Elements.cpp)
+[EX 18](code/18__Print-Unique-Elements.cpp)
 
 ### Exercise 19
 
 Write a program that sorts an array in ascending order.
 
-[EX 19](code/19_ArraySorter.cpp)
+[EX 19](code/19__ArraySorter.cpp)
 
 ### Exercise 20
 
 Write a program that copies all elements of an array into another array.
 
-[EX 20](code/20_Copy-Array.cpp)
+[EX 20](code/20__Copy-Array.cpp)
 
