@@ -116,3 +116,9 @@ Write a program that sorts an array in ascending order.
 
 [EX 19](code/19_ArraySorter.cpp)
 
+### Exercise 20
+
+Write a program that copies all elements of an array into another array.
+
+[EX 20](code/20_Copy-Array.cpp)
+
