@@ -127,3 +127,9 @@ Write a program that copies all elements of an array into another array.
 Write a program that counts the number of occurrences of each element in an array.
 
 [EX 21](code/21__Count-Occurrences.cpp)
+
+### Exercise 22
+
+Write a program that removes all duplicate elements from an array.
+
+[EX 22](code/22__Duplicate-Remover.cpp)
