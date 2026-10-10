@@ -122,3 +122,8 @@ Write a program that copies all elements of an array into another array.
 
 [EX 20](code/20__Copy-Array.cpp)
 
+### Exercise 21
+
+Write a program that counts the number of occurrences of each element in an array.
+
+[EX 21](code/21__Count-Occurrences.cpp)
