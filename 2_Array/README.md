@@ -133,3 +133,9 @@ Write a program that counts the number of occurrences of each element in an arra
 Write a program that removes all duplicate elements from an array.
 
 [EX 22](code/22__Duplicate-Remover.cpp)
+
+### Exercise 23
+
+Write a program that counts the total number of duplicate elements in an array.
+
+[EX 23](code/23__Duplicate-Counter.cpp)
