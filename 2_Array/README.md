@@ -139,3 +139,12 @@ Write a program that removes all duplicate elements from an array.
 Write a program that counts the total number of duplicate elements in an array.
 
 [EX 23](code/23__Duplicate-Counter.cpp)
+
+### Exercise 24
+
+Write a program that merges two sorted arrays.
+
+[EX 24](code/24__Merge-Sorted-Arrays.cpp)
+
+
+
