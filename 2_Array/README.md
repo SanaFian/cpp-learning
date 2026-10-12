@@ -146,5 +146,8 @@ Write a program that merges two sorted arrays.
 
 [EX 24](code/24__Merge-Sorted-Arrays.cpp)
 
+### Exercise 25
 
+Write a program that places the even and odd elements of an array into two separate arrays.
 
+[EX 25](code/25__Separate-EvenOdd.cpp)
