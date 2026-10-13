@@ -157,3 +157,10 @@ Write a program that places the even and odd elements of an array into two separ
 Write a program that finds the reverse of an array.
 
 [EX 26](code/26__Array-Reverser.cpp)
+
+### Exercise 27
+
+Write a program that shifts an array to the left.
+
+[EX 27](code/27__Array-LeftShifter.cpp)
+
