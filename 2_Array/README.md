@@ -151,3 +151,9 @@ Write a program that merges two sorted arrays.
 Write a program that places the even and odd elements of an array into two separate arrays.
 
 [EX 25](code/25__Separate-EvenOdd.cpp)
+
+### Exercise 26
+
+Write a program that finds the reverse of an array.
+
+[EX 26](code/26__Array-Reverser.cpp)
