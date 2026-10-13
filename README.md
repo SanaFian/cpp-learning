@@ -28,4 +28,4 @@ I add new exercises regularly as I continue learning and improving my C++ progra
 
 ---
 
-⭐ Feel free to explore the exercises and use them for learning and practice.
+"Feel free to explore the exercises and use them for learning and practice."
