@@ -170,3 +170,9 @@ Write a program that shifts an array to the right.
 
 [EX 28](code/28__Array-RightShifter.cpp)
 
+### Exercise 29
+
+Write a program that sorts an unsorted array using the bubble sort method.
+
+[EX 29](code/29__BubbleSorter.cpp)
+
