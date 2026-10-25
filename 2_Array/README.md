@@ -164,3 +164,9 @@ Write a program that shifts an array to the left.
 
 [EX 27](code/27__Array-LeftShifter.cpp)
 
+### Exercise 28
+
+Write a program that shifts an array to the right.
+
+[EX 28](code/28__Array-RightShifter.cpp)
+
