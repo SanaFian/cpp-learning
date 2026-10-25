@@ -176,3 +176,8 @@ Write a program that sorts an unsorted array using the bubble sort method.
 
 [EX 29](code/29__BubbleSorter.cpp)
 
+### Exercise 30
+
+Write a program that determines the presence or absence of an element in an array using the binary search method.
+
+[EX 30](code/30__Binary-Searcher.cpp)
